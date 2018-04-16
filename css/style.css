@@ -1,0 +1,73 @@
+body{
+	background-color: #548d9e;
+}
+header .banner{
+	margin-left: 45px;
+}
+h1{
+	text-align: center;
+	font-family: impact;
+	font-size: 70px;
+	color: black;
+}
+header li{
+	display: inline;
+	padding-right: 10px;
+	font-size: 20px;
+
+}
+nav{
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	list-style-type: none;
+	color: black;
+	background-color: #bada52;
+}
+a:hover { 
+    background-color: #ce1b6a;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: green;
+}
+
+a:active {
+    color: yellow;
+}
+
+.derpa img{
+	margin-left: 130px;
+}
+.derpb img{
+	margin-left: 130px;
+}
+.derpa{
+	margin-top: 10px;
+	float: left;
+	max-width: 43%;
+	width: 700px;
+	margin-right: 10px;
+	margin-left: 45px;
+	background-color: white;
+	padding: 10px;
+}
+.derpb{
+	margin-top: 10px;
+	float: right;
+	max-width: 43%;
+	width: 700px;
+	margin-right: 50px;
+	margin-left: 10px;
+	background-color: white;
+	padding: 10px;
+}
+
+footer{
+
+	margin-top: 700px;
+	background-color: #bada52;
+
+}
